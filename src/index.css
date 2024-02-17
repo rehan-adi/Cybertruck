@@ -34,3 +34,9 @@
     background-size: cover;
     background-attachment: fixed;
 }
+.footer-img{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-End-of-Page-Desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
