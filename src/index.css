@@ -24,3 +24,13 @@
 .line-height{
     line-height: 2;
 }
+.line-height1{
+    line-height: 1.8;
+}
+.fifth-page{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Into-The-Wild-Desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

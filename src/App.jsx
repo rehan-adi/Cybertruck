@@ -1,3 +1,4 @@
+import FifthPage from "./Components/FifthPage"
 import FourthPage from "./Components/FourthPage"
 import Hero from "./Components/Hero"
 import Navbar from "./Components/Navbar"
@@ -13,6 +14,7 @@ function App() {
       <SecondPage />
       <ThirdPage />
       <FourthPage />
+      <FifthPage />
     </>
   )
 }
